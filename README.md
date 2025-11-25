@@ -5,7 +5,7 @@ reforçar credibilidade no mercado e facilitar o contato entre clientes e a empr
 
 Pedro Paulo de Assis Soares.
 
-1° periodo em analise e desenvolvimento de sistemas.
+1° Periodo em Analise e desenvolvimento de sistemas.
 
-https://pedro-soares09.github.io/alpha_nutri
+https://pedro-soares09.github.io/alpha_nutri/
 
