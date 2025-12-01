@@ -23,7 +23,17 @@
     line-height: 1.5;
     overflow-x: hidden;
   }
-  img {
+
+.values-grid img,
+.products-grid img,
+.services-grid img {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 12px;
+    
+}
+img {
     max-width: 100%;
     display: block;
     border-radius: var(--radius);
