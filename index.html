@@ -15,27 +15,30 @@
 </head>
 <body>
 
-
   <header class="site-header">
-    <div class="container header-inner">
-      <a class="brand" href="#">
-        <img src="img/logo.jpeg" alt="Alpha Nutri Logo" class="brand-logo" />
-        <span class="brand-text"><span class="brand-alpha">ALPHA</span><span class="brand-nutri">NUTRI</span></span>
-      </a>
+  <div class="container header-inner">
 
-      <nav class="main-nav" aria-label="Menu principal">
-        <ul>
-          <li><a href="#home">Home</a></li>
-          <li><a href="#produtos">Produtos</a></li>
-          <li><a href="#servicos">Serviços</a></li>
-          <li><a href="#contato">Contato</a></li>
-        </ul>
-      </nav>
+    <a class="brand" href="#">
+      <img src="img/logo.jpeg" alt="Alpha Nutri Logo" class="brand-logo" />
+      <span class="brand-text">
+        <span class="brand-alpha">ALPHA</span><span class="brand-nutri">NUTRI</span>
+      </span>
+    </a>
 
-      <button class="btn-menu" aria-expanded="false" aria-label="Abrir menu">☰</button>
-    </div>
-  </header>
+    <input type="checkbox" id="menu-toggle" class="menu-toggle">
+    <label for="menu-toggle" class="btn-menu">☰</label>
 
+    <nav class="main-nav">
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#produtos">Produtos</a></li>
+        <li><a href="#servicos">Serviços</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+    </nav>
+
+  </div>
+</header>
   
   <section id="home" class="hero">
     <div class="container hero-grid">
